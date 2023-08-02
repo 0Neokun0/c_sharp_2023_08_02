@@ -1,0 +1,15 @@
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\bin\Debug\net6.0\Read And Write Property.exe
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\bin\Debug\net6.0\Read And Write Property.deps.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\bin\Debug\net6.0\Read And Write Property.runtimeconfig.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\bin\Debug\net6.0\Read And Write Property.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\bin\Debug\net6.0\Read And Write Property.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\Read And Write Property.csproj.AssemblyReference.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\Read And Write Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\Read And Write Property.AssemblyInfoInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\Read And Write Property.AssemblyInfo.cs
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\Read And Write Property.csproj.CoreCompileInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\Read And Write Property.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\refint\Read And Write Property.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\Read And Write Property.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\Read And Write Property.genruntimeconfig.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Read And Write Property\obj\Debug\net6.0\ref\Read And Write Property.dll

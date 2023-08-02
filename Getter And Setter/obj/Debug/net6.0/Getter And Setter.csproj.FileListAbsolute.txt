@@ -1,0 +1,15 @@
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\bin\Debug\net6.0\Getter And Setter.exe
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\bin\Debug\net6.0\Getter And Setter.deps.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\bin\Debug\net6.0\Getter And Setter.runtimeconfig.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\bin\Debug\net6.0\Getter And Setter.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\bin\Debug\net6.0\Getter And Setter.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\Getter And Setter.csproj.AssemblyReference.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\Getter And Setter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\Getter And Setter.AssemblyInfoInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\Getter And Setter.AssemblyInfo.cs
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\Getter And Setter.csproj.CoreCompileInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\Getter And Setter.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\refint\Getter And Setter.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\Getter And Setter.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\Getter And Setter.genruntimeconfig.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_02\Getter And Setter\obj\Debug\net6.0\ref\Getter And Setter.dll
